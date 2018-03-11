@@ -15,7 +15,7 @@ python crawl.py
 
 等待数据抓取完毕
 
-python -m SimpleHTTPServer 3000
+python -m http.server 3000
 
 然后打开浏览器，在地址栏输入：localhost:3000 打开网页。
 
